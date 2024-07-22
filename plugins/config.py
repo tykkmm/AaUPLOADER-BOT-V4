@@ -11,11 +11,11 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6504389382:AAGiqASARUii1dxNQx0kH26mg8t3j6m2uwI")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7355006985:AAEY8ijg4CP-8GgcliRGJja87Tby78QT7To")
     
-    API_ID = int(os.environ.get("API_ID", "16732227"))
+    API_ID = int(os.environ.get("API_ID", "29426486"))
     
-    API_HASH = os.environ.get("API_HASH", "8b5594ad7ad37f3a0a7ddbfb3963bb51")
+    API_HASH = os.environ.get("API_HASH", "d71ad4ec048ab41677a1a439b21ff0c9")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
@@ -43,13 +43,13 @@ class Config(object):
     
     SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
     
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002017073784"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002244796953"))
     
     LOGGER = logging
     
-    OWNER_ID = int(os.environ.get("OWNER_ID", "5868426717"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "5976437467"))
     
     TG_MIN_FILE_SIZE = 2097152000
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "gbvddssggtbot")
-                                  
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "TY3052432")
+                                 
